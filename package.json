@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "cy:open": "cypress open"
   },
   "dependencies": {
     "@vue/devtools-api": "^8.2.1",
@@ -23,6 +24,7 @@
   "devDependencies": {
     "@tailwindcss/vite": "^4.3.3",
     "@vitejs/plugin-vue": "^6.0.8",
+    "cypress": "^16.2.1",
     "daisyui": "^5.7.50",
     "tailwindcss": "^4.3.3",
     "vite": "^8.3.0"
