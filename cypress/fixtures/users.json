@@ -1,0 +1,30 @@
+{
+  "validUser": {
+    "firstName": "Leanne",
+    "lastName": "Graham",
+    "email": "leanne.graham.test@example.com",
+    "password": "MotDePasseTest123!",
+    "confirmPassword": "MotDePasseTest123!"
+  },
+  "invalidEmail": {
+    "firstName": "Ervin",
+    "lastName": "Howell",
+    "email": "ervin.howell.example.com",
+    "password": "MotDePasseTest123!",
+    "confirmPassword": "MotDePasseTest123!"
+  },
+  "differentPasswords": {
+    "firstName": "Clementine",
+    "lastName": "Bauch",
+    "email": "clementine.bauch.test@example.com",
+    "password": "MotDePasseTest123!",
+    "confirmPassword": "AutreMotDePasse456!"
+  },
+  "emptyField": {
+    "firstName": "",
+    "lastName": "Lebsack",
+    "email": "patricia.lebsack.test@example.com",
+    "password": "MotDePasseTest123!",
+    "confirmPassword": "MotDePasseTest123!"
+  }
+}
